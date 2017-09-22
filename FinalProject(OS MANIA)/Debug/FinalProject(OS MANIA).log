@@ -1,0 +1,39 @@
+﻿Build started 5/24/2016 2:40:06 PM.
+     1>Project "C:\Users\quocc\Documents\Visual Studio 2013\Projects\(Ad C++)Final project _ OS mania\FinalProject(OS MANIA)\FinalProject(OS MANIA).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Attributes.cpp ChangeDirectory.cpp Copy.cpp Main.cpp MakeDirectory.cpp Move.cpp OpenType.cpp RemoveDirectory.cpp Rename.cpp Sort.cpp splash.cpp
+         splash.cpp
+         Sort.cpp
+         Rename.cpp
+         RemoveDirectory.cpp
+         OpenType.cpp
+     1>c:\users\quocc\documents\visual studio 2013\projects\(ad c++)final project _ os mania\finalproject(os mania)\opentype.cpp(161): warning C4101: 's' : unreferenced local variable
+         Move.cpp
+         MakeDirectory.cpp
+         Main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         Copy.cpp
+         ChangeDirectory.cpp
+         Attributes.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo"Debug\FinalProject(OS MANIA).res" "FinalProject(OS MANIA).rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\quocc\Documents\Visual Studio 2013\Projects\(Ad C++)Final project _ OS mania\Debug\FinalProject(OS MANIA).exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\quocc\Documents\Visual Studio 2013\Projects\(Ad C++)Final project _ OS mania\Debug\FinalProject(OS MANIA).pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\quocc\Documents\Visual Studio 2013\Projects\(Ad C++)Final project _ OS mania\Debug\FinalProject(OS MANIA).lib" /MACHINE:X86 "Debug\FinalProject(OS MANIA).res"
+         Debug\Attributes.obj
+         Debug\ChangeDirectory.obj
+         Debug\Copy.obj
+         Debug\Main.obj
+         Debug\MakeDirectory.obj
+         Debug\Move.obj
+         Debug\OpenType.obj
+         Debug\RemoveDirectory.obj
+         Debug\Rename.obj
+         Debug\Sort.obj
+         Debug\splash.obj
+         FinalProject(OS MANIA).vcxproj -> C:\Users\quocc\Documents\Visual Studio 2013\Projects\(Ad C++)Final project _ OS mania\Debug\FinalProject(OS MANIA).exe
+     1>Done Building Project "C:\Users\quocc\Documents\Visual Studio 2013\Projects\(Ad C++)Final project _ OS mania\FinalProject(OS MANIA)\FinalProject(OS MANIA).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.25
